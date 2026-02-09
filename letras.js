@@ -215,49 +215,523 @@ Da vida a razão!`
     independencia: {
         titulo: "Hino da Independência",
         audio: "audio/independencia.mp3",
-        letra: `xx`
+        letra: `Já podeis, da Pátria filhos
+Ver contente a Mãe gentil
+Já raiou a liberdade
+No horizonte do Brasil
+Já raiou a liberdade
+Já raiou a liberdade
+No horizonte do Brasil
+
+Brava gente brasileira
+Longe vá, temor servil
+Ou ficar a Pátria livre
+Ou morrer pelo Brasil
+Ou ficar a Pátria livre
+Ou morrer pelo Brasil
+
+Os grilhões que nos forjava
+Da perfídia astuto ardil
+Houve mão mais poderosa
+Zombou deles o Brasil
+Houve mão mais poderosa
+Houve mão mais poderosa
+Zombou deles o Brasil
+
+Brava gente brasileira
+Longe vá, temor servil
+Ou ficar a Pátria livre
+Ou morrer pelo Brasil
+Ou ficar a Pátria livre
+Ou morrer pelo Brasil
+
+Não temais ímpias falanges
+Que apresentam face hostil
+Vossos peitos, vossos braços
+São muralhas do Brasil
+Vossos peitos, vossos braços
+Vossos peitos, vossos braços
+São muralhas do Brasil
+
+Brava gente brasileira
+Longe vá, temor servil
+Ou ficar a Pátria livre
+Ou morrer pelo Brasil
+Ou ficar a Pátria livre
+Ou morrer pelo Brasil
+
+Parabéns, ó brasileiros
+Já, com garbo juvenil
+Do universo entre as nações
+Resplandece a do Brasil
+Do universo entre as nações
+Do universo entre as nações
+Resplandece a do Brasil
+
+Brava gente brasileira
+Longe vá, temor servil
+Ou ficar a Pátria livre
+Ou morrer pelo Brasil
+Ou ficar a Pátria livre
+Ou morrer pelo Brasil`
     },
 
     bandeira: {
         titulo: "Hino à Bandeira",
         audio: "audio/bandeira.mp3",
-        letra: `xx`
+        letra: `Salve, lindo pendão da esperança,
+Salve, símbolo augusto da paz!
+Tua nobre presença à lembrança
+A grandeza da Pátria nos traz.
+
+Recebe o afeto que se encerra
+Em nosso peito juvenil,
+Querido símbolo da terra,
+Da amada terra do Brasil!
+
+Em teu seio formoso retratas
+Este céu de puríssimo azul,
+A verdura sem par destas matas,
+E o esplendor do Cruzeiro do Sul.
+
+Recebe o afeto que se encerra
+Em nosso peito juvenil,
+Querido símbolo da terra,
+Da amada terra do Brasil!
+
+Contemplando o teu vulto sagrado,
+Compreendemos o nosso dever;
+E o Brasil, por seus filhos amado,
+Poderoso e feliz há de ser.
+
+Recebe o afeto que se encerra
+Em nosso peito juvenil,
+Querido símbolo da terra,
+Da amada terra do Brasil!
+
+Sobre a imensa Nação Brasileira,
+Nos momentos de festa ou de dor,
+Paira sempre, sagrada bandeira,
+Pavilhão da Justiça e do Amor!
+
+Recebe o afeto que se encerra
+Em nosso peito juvenil,
+Querido símbolo da terra,
+Da amada terra do Brasil!`
     },
 
     expedicionario: {
         titulo: "Canção do Expedicionário",
         audio: "audio/expedicionario.mp3",
-        letra: `xx`
+        letra: `Você sabe de onde eu venho?
+Venho do morro, do Engenho
+Das selvas, dos cafezais
+Da boa terra do coco
+Da choupana onde um é pouco
+Dois é bom, três é demais
+
+Venho das praias sedosas
+Das montanhas alterosas
+Do pampa, do seringal
+Das margens crespas dos rios
+Dos verdes mares bravios
+Da minha terra natal
+
+Por mais terras que eu percorra
+Não permita Deus que eu morra
+Sem que volte para lá
+Sem que leve por divisa
+Esse V que simboliza
+A vitória que virá
+
+Nossa vitória final
+Que é mira do meu fuzil
+A ração do meu bornal
+A água do meu cantil
+As asas do meu ideal
+A glória do meu Brasil
+
+Eu venho da minha terra
+Da casa branca da serra
+E do luar do meu sertão
+Venho da minha Maria
+Cujo nome principia
+Na palma da minha mão
+
+Braços mornos de Moema
+Lábios de mel de Iracema
+Estendidos pra mim
+Ó, minha terra querida
+Da Senhora Aparecida
+E do Senhor do Bonfim
+
+Por mais terras que eu percorra
+Não permita Deus que eu morra
+Sem que volte para lá
+Sem que leve por divisa
+Esse V que simboliza
+A vitória que virá
+
+Nossa vitória final
+Que é a mira do meu fuzil
+A ração do meu bornal
+A água do meu cantil
+As asas do meu ideal
+A glória do meu Brasil
+
+Você sabe de onde eu venho?
+É de uma Pátria que eu tenho
+No bojo do meu violão
+Que de viver em meu peito
+Foi até tomando jeito
+De um enorme coração
+
+Deixei lá atrás meu terreno
+Meu limão, meu limoeiro
+Meu pé de jacarandá
+Minha casa pequenina
+Lá no alto da colina
+Onde canta o sabiá
+
+Por mais terras que eu percorra
+Não permita Deus que eu morra
+Sem que volte para lá
+Sem que leve por divisa
+Esse V que simboliza
+A vitória que virá
+
+Nossa vitória final
+Que é a mira do meu fuzil
+A ração do meu bornal
+A água do meu cantil
+As asas do meu ideal
+A glória do meu Brasil
+
+Venho de além desse monte
+Que ainda azula no horizonte
+Onde o nosso amor nasceu
+Do rancho que tinha ao lado
+Um coqueiro que, coitado
+De saudade já morreu
+
+Venho do verde mais belo
+Do mais dourado amarelo
+Do azul mais cheio de luz
+Cheio de estrelas prateadas
+Que se ajoelham deslumbradas
+Fazendo o sinal da Cruz
+
+Por mais terras que eu percorra
+Não permita Deus que eu morra
+Sem que volte para lá
+Sem que leve por divisa
+Esse V que simboliza
+A vitória que virá
+
+Nossa vitória final
+Que é a mira do meu fuzil
+A ração do meu bornal
+A água do meu cantil
+As asas do meu ideal
+A glória do meu Brasil!`
     },
 
     exercito: {
         titulo: "Canção do Exército Brasileiro",
         audio: "audio/exercito.mp3",
-        letra: `xx`
+        letra: `Nós somos da Pátria a guarda
+Fiéis soldados
+Por ela amados
+Nas cores de nossa farda
+Rebrilha a glória
+Fulge a vitória
+
+Em nosso valor se encerra
+Toda a esperança
+Que um povo alcança
+Quando altiva for a Terra
+Rebrilha a glória
+Fulge a vitória
+
+A paz queremos com fervor
+A guerra só nos causa dor
+Porém, se a Pátria amada
+For um dia ultrajada
+Lutaremos sem temor
+
+A paz queremos com fervor
+A guerra só nos causa dor
+Porém, se a Pátria amada
+For um dia ultrajada
+Lutaremos sem temor
+
+Como é sublime
+Saber amar
+Com a alma adorar
+A terra onde se nasce!
+Amor febril
+Pelo Brasil
+No coração
+Nosso que passe
+
+E quando a nação querida
+Frente ao inimigo
+Correr perigo
+Se dermos por ela a vida
+Rebrilha a glória
+Fulge a vitória
+
+Assim ao Brasil faremos
+Oferta igual
+De amor filial
+E a ti, Pátria, salvaremos!
+Rebrilha a glória
+Fulge a vitória
+
+A paz queremos com fervor
+A guerra só nos causa dor
+Porém, se a Pátria amada
+For um dia ultrajada
+Lutaremos sem temor
+
+A paz queremos com fervor
+A guerra só nos causa dor
+Porém, se a Pátria amada
+For um dia ultrajada
+Lutaremos sem temor`
     },
 
     dez_agosto: {
         titulo: "Canção 10 de agosto - Hino da PMPR",
         audio: "audio/dez_agosto.mp3",
-        letra: `xx`
+        letra: `Polícia Militar paranaense
+De tão brava e tão nobre tradição
+Ao Brasil nossa vida pertence
+E a ti servimos por brio e vocação
+
+Que sejas como sempre este templo
+Venerado através de gerações
+Onde o civismo impera e é o exemplo
+Que nos prende e aquece os corações
+
+Salve, salve Milícia querida!
+Eia, avante colosso de glória!
+Que prossiga pujante, aguerrida
+E que brilhes para sempre na História!
+
+Esta farda que com honra envergamos
+Orgulhosos das missões consagradas
+Representa a paz que preservamos
+Nas cidades, nas matas e estradas
+Mas, se a negra presença da guerra
+A unidade da pátria ofender
+Palmo a palmo, no gládio, esta terra
+Saberemos também defender!
+
+Milicianos
+Se às armas
+O chamado da pátria ocorrer
+Em combate
+Pela honra
+Do Brasil não importa morrer!
+
+Tema musical do coro
+
+Salve, salve Milícia querida!
+Eia, avante colosso de glória!
+Que prossiga pujante, aguerrida
+E que brilhes para sempre na História!
+
+Avante PMPR!
+Hurra! Hurra! Hurra!`
     },
 
     soldado_de_fogo: {
         titulo: "Hino Soldado do Fogo",
         audio: "audio/soldado_de_fogo.mp3",
-        letra: `xx`
+        letra: `Contra as chamas em lutas Ingentes,
+Sob o nobre o alvi-rubro pendão,
+Dos soldados do fogo valentes,
+É, na paz, a sagrada missão.
+E se um dia houver sangue e batalha,
+Desfraldando a auri-verde bandeira,
+Nossos peitos são férreas muralhas,
+Contra audaz agressão estrangeira,
+
+Missão dupla o dever nos aponta
+Vida alheia e riquezas a salvar
+E, na guerra, punindo uma afronta,
+Com valor pela Pátria lutar.
+
+Auri-fulvo clarão gigantesco,
+Labaredas flamejam no ar,
+Num incêndio horroroso e dantesco,
+A cidade parece queimar,
+Mas não temem a morte os bombeiros
+Quando ecôa d’alarme o sinal,
+Ordenando voarem ligeiros,
+A vencer o vulcão Infernal.
+
+Missão dupla o dever nos aponta
+Vida alheia e riquezas a salvar
+E, na guerra, punindo um afronta,
+Com valor pela Pátria lutar.
+
+Rija luta aos heróis aviventa,
+Inflamando em seu peito o valor,
+Para frente o que importa a tormenta,
+Dura marcha ou de soes a rigor?
+Nem um passo daremos atras,
+repelindo, inimigos canhões,
+Voluntários na morte na paz,
+São na guerra indomáveis leões.
+
+Missão dupla o dever nos aponta
+Vida alheia e riquezas a salvar
+E, na guerra, punindo um afronta,
+Com valor pela Pátria lutar.`
     },
 
      fibra_heroi: {
         titulo: "Fibra de Herói",
         audio: "audio/fibra_heroi.mp3",
-        letra: `xx`
+        letra: `Se a Pátria querida
+For envolvida pelo inimigo
+Na paz ou na guerra
+Defende a terra contra o perigo
+
+Com ânimo forte, se for preciso
+Enfrenta a morte
+Afronta se lava com fibra de herói
+De gente brava
+
+Bandeira do Brasil
+Ninguém te manchará
+Teu povo varonil
+Isso não consentirá
+
+Bandeira idolatrada
+Altiva a tremular
+Onde a liberdade é mais uma estrela a brilhar
+
+Bandeira do Brasil
+Ninguém te manchará
+Teu povo varonil
+Isso não consentirá
+
+Bandeira idolatrada
+Altiva a tremular
+Onde a liberdade é mais uma estrela a brilhar
+
+Se a Pátria querida
+For envolvida pelo inimigo
+Na paz ou na guerra
+Defende a terra contra o perigo
+
+Com ânimo forte, se for preciso
+Enfrenta a morte
+Afronta se lava com fibra de herói
+De gente brava
+
+Bandeira do Brasil
+Ninguém te manchará
+Teu povo varonil
+Isso não consentirá
+
+Bandeira idolatrada
+Altiva a tremular
+Onde a liberdade é mais uma estrela a brilhar
+
+Bandeira do Brasil
+Ninguém te manchará
+Teu povo varonil
+Isso não consentirá
+
+Bandeira idolatrada
+Altiva a tremular
+Onde a liberdade é mais uma estrela a brilhar`
     },
 
      avante_camaradas: {
         titulo: "Avante Camaradas - Dobrado",
         audio: "audio/avante_camaradas.mp3",
-        letra: `xx`
+        letra: `Avante, camaradas
+Ao tremular do nosso pendão
+Vençamos as invernadas
+Com fé suprema no coração
+
+Avante, sem receio
+Que em todos nós a Pátria confia
+Marchemos com alegria, avante
+Marchemos sem receio
+
+Avante, camaradas
+Ao tremular do nosso pendão
+Vençamos as invernadas
+Com fé suprema no coração
+
+Avante, sem receio
+Que em todos nós a Pátria confia
+Marchemos com alegria, avante
+Marchemos sem receio
+
+Aqui não há quem nos detenha
+E nem quem turbe a nossa galhardia
+Quem nobre missão desempenha
+Temer não pode a tirania, a tirania
+E nunca seremos vencidos
+Pois marchamos sob a luz da crença
+Marchemos sempre convencidos
+Não há denodo que nos vença
+
+Aqui não há quem nos detenha
+E nem quem turbe a nossa galhardia
+Quem nobre missão desempenha
+Temer não pode a tirania, a tirania
+E nunca seremos vencidos
+Pois marchamos sob a luz da crença
+Marchemos sempre convencidos
+Não há denodo que nos vença
+
+Avante, camaradas
+Ao tremular do nosso pendão
+Vençamos as invernadas
+Com fé suprema no coração
+
+Avante, sem receio
+Que em todos nós a Pátria confia
+Marchemos com alegria, avante
+Marchemos sem receio
+
+Havemos, sempre audazes
+Afrontar o perigo
+E seremos perspicazes
+Ante o mais férreo inimigo
+Por isso, não tememos
+Sempre fortes, sobranceiros
+E com bravura lutaremos
+Brasileiros nós somos
+Nós somos brasileiros
+
+Havemos, sempre audazes
+Afrontar o perigo
+E seremos perspicazes
+Ante o mais férreo inimigo
+Por isso, não tememos
+Sempre fortes, sobranceiros
+E com bravura lutaremos
+Brasileiros nós somos
+Nós somos brasileiros
+
+Avante, camaradas
+Ao tremular do nosso pendão
+Vençamos as invernadas
+Com fé suprema no coração
+
+Avante, sem receio
+Que em todos nós a Pátria confia
+Marchemos com alegria, avante
+Marchemos sem receio`
     },
 
 
