@@ -14,7 +14,16 @@ function abrirHino(id) {
     if (hino) {
         tituloHino.innerText = hino.titulo;
         letraHino.innerText = hino.letra;
-        player.src = hino.audio;
+        // VERIFICAÇÃO DE ÁUDIO
+        // Se hino.audio existir e não for uma string vazia
+        if (hino.audio && hino.audio !== "") {
+            player.src = hino.audio;
+            player.style.display = "block"; // Mostra o player
+        } else {
+            player.src = "";
+            player.style.display = "none";  // Esconde o player completamente
+        }
+
 
         // Mostra a tela de detalhes
         listaHinos.classList.add('hidden');

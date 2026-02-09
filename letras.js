@@ -592,7 +592,7 @@ E, na guerra, punindo um afronta,
 Com valor pela Pátria lutar.`
     },
 
-     fibra_heroi: {
+    fibra_heroi: {
         titulo: "Fibra de Herói",
         audio: "audio/fibra_heroi.mp3",
         letra: `Se a Pátria querida
@@ -652,7 +652,7 @@ Altiva a tremular
 Onde a liberdade é mais uma estrela a brilhar`
     },
 
-     avante_camaradas: {
+    avante_camaradas: {
         titulo: "Avante Camaradas - Dobrado",
         audio: "audio/avante_camaradas.mp3",
         letra: `Avante, camaradas
@@ -732,6 +732,83 @@ Avante, sem receio
 Que em todos nós a Pátria confia
 Marchemos com alegria, avante
 Marchemos sem receio`
+    },
+
+    escola_ouro: {
+        titulo: "Canção Escola de Ouro",
+        audio: "audio/escola_ouro.mp3",
+        letra: `(Letra e Música: Cad. 3º PM Diogo Moscoso) 
+        
+Cem anos após o Paraná se emancipar
+Primeira turma de Oficiais, assim formou
+E ao receber o Espadim, com fé jurou
+Da nossa Pátria e sociedade, irei cuidar!
+Seja policial ou bombeiro militar
+Contra o crime, contra o fogo combater!
+Está escola com orgulho vai formar
+Oficiais para com honra comandar!
+Junto de sua espada, com justiça, comandar!
+Ao cidadão, com entusiasmo, irá servir
+A luta é árdua no trabalho que há por vir
+Mas certamente a sua estrela vai brilhar!
+Seja policial ou bombeiro militar
+Contra o crime, contra o fogo combater!
+Está escola com orgulho vai formar
+Oficiais para com honra comandar`
+    },
+
+    tres_anos: {
+        titulo: "Canção Três Anos",
+        audio: "audio/tres_anos.mp3",
+        letra: `São três anos de batalha
+Que eu tenho de vencer
+Essa batalha é gratificante
+Eu serei um Aspirante
+Com orgulho e com moral
+Eu serei Oficial
+Toda tropa orgulhosa
+E o tenente a comandar
+E no bojo de seu comando
+Um exemplo sempre a dar
+Desta escola tenho orgulho
+Ralei muito para entrar
+Vou em busca do meu sonho
+Minha estrela conquistar`
+    },
+
+    espadim: {
+        titulo: "Juramento - Espadim",
+        audio: "",
+        letra: `Recebendo,
+O Espadim Tiradentes,
+Arma símbolo do Cadete do Curso de Formação de Oficiais,
+Prometemos,
+Por nossa honra,
+Orgulho e tradição,
+Defender a nossa pátria,
+Sociedade,
+Estado e corporação.
+Em todo tempo e lugar.
+Com elevado moral
+E espírito de sacrifício.`
+    },
+
+    espada: {
+        titulo: "Juramento - Espada",
+        audio: "",
+        letra: `Ao ser declarado
+Aspirante-à-Oficial, da Polícia Militar do Estado do Paraná.
+Prometo,
+Regular minha conduta pelos preceitos da moral.
+Respeitar meus superiores hierárquicos,
+Tratar com afetos meus companheiros
+E com bondade os que venham a ser meus subordinados.
+Cumprir rigorosamente as ordens das autoridades competentes
+E devotar-me inteiramente ao serviço do Estado e da minha Pátria.
+Cuja honra,
+Integridade e instituições,
+Defenderei
+Com o sacrifício da própria vida.`
     },
 
 
