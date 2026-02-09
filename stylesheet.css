@@ -1,0 +1,138 @@
+/* Configurações Gerais */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+:root {
+    --azul-marinho: #001f3f;
+    --azul-claro: #003366;
+    --dourado: #FFD700;
+    --branco: #ffffff;
+    --cinza-claro: #f4f4f4;
+}
+
+body {
+    background-color: var(--azul-marinho);
+    color: var(--branco);
+    line-height: 1.6;
+}
+
+/* Cabeçalho */
+header {
+    background-color: var(--azul-claro);
+    padding: 20px;
+    text-align: center;
+    border-bottom: 3px solid var(--dourado);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+header h1 {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+/* Container Principal */
+main {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Lista de Hinos */
+#lista-hinos {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+button {
+    background-color: var(--azul-claro);
+    color: var(--branco);
+    border: 1px solid rgba(255, 215, 0, 0.3);
+    padding: 18px;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-align: left;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+}
+
+button:active {
+    transform: scale(0.98);
+    background-color: var(--dourado);
+    color: var(--azul-marinho);
+}
+
+/* Tela de Detalhes (Letra e Áudio) */
+/* Classe que faz os elementos sumirem */
+.hidden {
+    display: none !important;
+}
+
+/* Estilo do botão de voltar para ele ficar bem visível no topo */
+#detalhe-hino button {
+    background: var(--dourado);
+    color: var(--azul-marinho);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+}
+
+/* Animação suave para quando o hino aparecer */
+#detalhe-hino {
+    animation: fadeIn 0.4s ease-in-out;
+}
+
+#titulo-hino {
+    color: var(--dourado);
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 1.8rem;
+}
+
+/* Player de Áudio */
+audio {
+    width: 100%;
+    margin-bottom: 25px;
+    filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%); /* Estiliza o player nativo */
+}
+
+/* Área da Letra */
+#letra-hino {
+    background-color: rgba(255, 255, 255, 0.05);
+    padding: 20px;
+    border-radius: 10px;
+    white-space: pre-wrap; /* Mantém as quebras de linha da letra */
+    font-size: 1.1rem;
+    text-align: center;
+    max-height: 60vh;
+    overflow-y: auto;
+    border-left: 4px solid var(--dourado);
+}
+
+/* Animação */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+/* Scrollbar estilizada para a letra */
+#letra-hino::-webkit-scrollbar {
+    width: 5px;
+}
+#letra-hino::-webkit-scrollbar-thumb {
+    background: var(--dourado);
+    border-radius: 10px;
+}

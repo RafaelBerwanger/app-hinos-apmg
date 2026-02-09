@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hinário do Cadete</title>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+
+<body>
+    <header>
+        <h1>Hinário do Cadete</h1>
+        <p><i>By: Berwanger</i> </p>
+    </header>
+
+    <main id="app">
+        <section id="lista-hinos">
+            <button onclick="abrirHino('brasil')">Hino Nacional</button>
+            <button onclick="abrirHino('parana')">Hino do Paraná</button>
+            <button onclick="abrirHino('apmg')">Hino da APMG</button>
+            <button onclick="abrirHino('independencia')">Hino da Independência</button>
+            <button onclick="abrirHino('bandeira')">Hino à Bandeira</button>
+            <button onclick="abrirHino('expedicionario')">Canção do Expedicionário</button>
+            <button onclick="abrirHino('exercito')">Canção do Exército Brasileiro</button>
+            <button onclick="abrirHino('dez_agosto')">Canção 10 de agosto - Hino da PMPR</button>
+            <button onclick="abrirHino('soldado_de_fogo')">Hino Soldado do Fogo</button>
+            <button onclick="abrirHino('fibra_heroi')">Fibra de Herói</button>
+            <button onclick="abrirHino('avante_camaradas')">Avante Camaradas - Dobrado</button>
+        </section>
+
+        <section id="detalhe-hino" class="hidden">
+            <button onclick="voltar()">← Voltar</button>
+            <h2 id="titulo-hino">Nome do Hino</h2>
+            <audio id="player" controls src=""></audio>
+            <div id="letra-hino">
+            </div>
+        </section>
+    </main>
+
+    <script src="letras.js"></script>
+    <script src="script.js"></script>
+
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('./sw.js');
+        }
+    </script>
+</body>
+
+</html>
