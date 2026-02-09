@@ -1,4 +1,74 @@
-/* Configurações Gerais */
+/* Configuração Geral (Desktop e Celulares Grandes) */
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 15px;
+    background-color: #002244;
+    color: white;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* Sombra para dar profundidade */
+}
+
+.header-text-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    flex: 1;
+    padding: 0 5px;
+}
+
+.main-header h1 {
+    font-size: 1.3rem;
+    margin: 0;
+    text-transform: uppercase; /* Deixa o título mais imponente */
+    letter-spacing: 1px;
+}
+
+.creditos {
+    font-size: 0.75rem;
+    margin-top: 2px;
+    font-style: italic;
+    color: #cccccc;
+}
+
+.logo-header {
+    width: 50px; /* Tamanho padrão */
+    height: auto;
+}
+
+/* --- AJUSTE PARA CELULARES (Telas até 400px) --- */
+@media (max-width: 400px) {
+    .main-header {
+        padding: 8px 10px;
+    }
+
+    .logo-header {
+        width: 40px; /* Reduz a logo para sobrar espaço pro texto */
+    }
+
+    .main-header h1 {
+        font-size: 1rem; /* Diminui o título para não quebrar linha */
+    }
+
+    .creditos {
+        font-size: 0.6rem; /* Diminui os créditos */
+    }
+}
+
+/* Ajuste extremo para celulares muito pequenos (iPhone SE antigo, etc) */
+@media (max-width: 320px) {
+    .logo-header {
+        width: 32px;
+    }
+    .main-header h1 {
+        font-size: 0.9rem;
+    }
+}
+
+
+
+* Configurações Gerais */
 * {
     margin: 0;
     padding: 0;
