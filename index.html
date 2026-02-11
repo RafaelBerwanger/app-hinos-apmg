@@ -6,6 +6,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hinário do Cadete</title>
     <link rel="stylesheet" href="stylesheet.css">
+
+    <link rel="icon" type="image/png" href="favicon/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="favicon/favicon.svg" />
+    <link rel="shortcut icon" href="favicon/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Hinário" />
+    <!-- <link rel="manifest" href="favicon/site.webmanifest" /> -->
+
+    <!-- Manifest, para transforar o APP em Progressive Web APP -->
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#001f3f">
+
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/sw.js')
+                .then(() => console.log("App Pronto para uso Offline!"))
+                .catch((err) => console.log("Erro ao registrar App", err));
+        }
+    </script>
+
+    <!-- FIM PWA -->
+
+    <!--  No Android (Chrome): Ao abrir o site, aparecerá um banner escrito "Adicionar à tela inicial". Se não aparecer, basta clicar nos três pontinhos do Chrome e selecionar "Instalar Aplicativo".
+
+    No iPhone (Safari): O usuário deve clicar no botão de Compartilhar (o quadradinho com uma seta para cima) e rolar até encontrar "Adicionar à Tela de Início".
+    -->
+
 </head>
 
 <body>
