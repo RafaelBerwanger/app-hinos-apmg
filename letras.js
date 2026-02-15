@@ -549,47 +549,31 @@ Hurra! Hurra! Hurra!`
     soldado_de_fogo: {
         titulo: "Hino Soldado do Fogo",
         audio: "audio/soldado_de_fogo.mp3",
-        letra: `Contra as chamas em lutas Ingentes,
-Sob o nobre o alvi-rubro pendão,
-Dos soldados do fogo valentes,
-É, na paz, a sagrada missão.
-E se um dia houver sangue e batalha,
-Desfraldando a auri-verde bandeira,
-Nossos peitos são férreas muralhas,
-Contra audaz agressão estrangeira,
+        letra: `
+Chegam as horas caladas da noite,  
+E o bombeiro atento a velar,  
+Pelo sono da bela cidade, 
+Que só nele está a confiar.  
+Se alerta em seu posto ver fogo  
+Ou alguém que o venha chamar,  
+Sem a perda de um só minuto  
+Seu dever no serviço é alarmar.
 
-Missão dupla o dever nos aponta
-Vida alheia e riquezas a salvar
-E, na guerra, punindo uma afronta,
-Com valor pela Pátria lutar.
+Todos correm a gritar FOGO, FOGO 
+É preciso então não temer  
+Compreendemos a nossa missão  
+Não importa lutar ou morrer  
 
-Auri-fulvo clarão gigantesco,
-Labaredas flamejam no ar,
-Num incêndio horroroso e dantesco,
-A cidade parece queimar,
-Mas não temem a morte os bombeiros
-Quando ecôa d’alarme o sinal,
-Ordenando voarem ligeiros,
-A vencer o vulcão Infernal.
+Não há esse que tema o trabalho 
+Para a honra salvar o dever,  
+Em ataque de esguicho nas mãos,  
+Contra o fogo lutar sem temer, 
+Se é na água, no fogo ou na terra  
+O Bombeiro só tem que lutar  
+E também pela nação querida  
+Sua vida não teme arriscar.  
 
-Missão dupla o dever nos aponta
-Vida alheia e riquezas a salvar
-E, na guerra, punindo um afronta,
-Com valor pela Pátria lutar.
-
-Rija luta aos heróis aviventa,
-Inflamando em seu peito o valor,
-Para frente o que importa a tormenta,
-Dura marcha ou de soes a rigor?
-Nem um passo daremos atras,
-repelindo, inimigos canhões,
-Voluntários na morte na paz,
-São na guerra indomáveis leões.
-
-Missão dupla o dever nos aponta
-Vida alheia e riquezas a salvar
-E, na guerra, punindo um afronta,
-Com valor pela Pátria lutar.`
+Todos correm a gritar FOGO, FOGO... `
     },
 
     fibra_heroi: {
