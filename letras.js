@@ -5,28 +5,24 @@ const hinos = {
         letra:
             `Letra: Cad. Mello Junior
 
-            Senhor,
-            Tu que nos fizeste cadetes da gloriosa,
-            Evocai em nosso espírito,
-            A dedicação e a lealdade,
-            A bravura e a moralidade.
+            Senhor, Tu que nos fizeste cadetes da gloriosa, evocai em nosso espírito, a dedicação e a lealdade, a bravura e a moralidade.
+            
+            Concede, Senhor, aos que juraram ao espadim Tiradentes, 
+            o respeito para com o cidadão, 
+            responsabilidade com sua formação, 
+            o compromisso diário com a honestidade, 
+            com a justiça e a legalidade.
 
-            Concede, Senhor,
-            Aos que juraram ao espadim Tiradentes,
-            O respeito para com o cidadão,
-            A responsabilidade com sua formação,
-            O compromisso diário com a honestidade,
-            Com a justiça e a legalidade.
+            Fazei, Oh Deus, 
+            que ao fim desta longa jornada,
+            Ao empunharmos a tão almejada espada, 
+            quando a sociedade e o crime ofender, 
+            que vidas alheias possamos defender.
 
-            Fazei, Oh Deus,
-            Que o fim desta longa jornada,
-            Ao empunharmos a tão almejada espada,
-            Quando a sociedade e o crime ofender,
-            Que vidas alheias possamos defender.
-
-            E enquanto a Ti pertencer todo o firmamento,
-            Concede Senhor, a todo o momento,
-            A coragem, a honra, a Fé,
+            E enquanto a Ti pertencer todo o firmamento, 
+            concede Senhor, 
+            a todo o momento, 
+            a coragem, a honra e a Fé.
 
             EsFO! 
 `
