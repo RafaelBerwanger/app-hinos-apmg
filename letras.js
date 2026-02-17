@@ -1,9 +1,41 @@
 const hinos = {
+    oracao_cadete: {
+        titulo: "Oração do Cadete",
+        audio: "audio/oracao_cadete.mp3",
+        letra:
+            `Letra: Cad. Mello Junior
+
+            Senhor,
+            Tu que nos fizeste cadetes da gloriosa,
+            Evocai em nosso espírito,
+            A dedicação e a lealdade,
+            A bravura e a moralidade.
+
+            Concede, Senhor,
+            Aos que juraram ao espadim Tiradentes,
+            O respeito para com o cidadão,
+            A responsabilidade com sua formação,
+            O compromisso diário com a honestidade,
+            Com a justiça e a legalidade.
+
+            Fazei, Oh Deus,
+            Que o fim desta longa jornada,
+            Ao empunharmos a tão almejada espada,
+            Quando a sociedade e o crime ofender,
+            Que vidas alheias possamos defender.
+
+            E enquanto a Ti pertencer todo o firmamento,
+            Concede Senhor, a todo o momento,
+            A coragem, a honra, a Fé,
+
+            EsFO! 
+`
+    },
+
     brasil: {
         titulo: "Hino Nacional",
         audio: "audio/brasil.mp3",
-        letra: `
-Ouviram do Ipiranga, as margens plácidas
+        letra: `Ouviram do Ipiranga, as margens plácidas
 De um povo heroico, o brado retumbante
 E o Sol da liberdade, em raios fúlgidos
 Brilhou no céu da pátria nesse instante
