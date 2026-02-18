@@ -5,33 +5,37 @@ const hinos = {
         letra:
             `Letra: Cad. Mello Junior
 
-            Senhor, Tu que nos fizeste cadetes da gloriosa, evocai em nosso espírito, a dedicação e a lealdade, a bravura e a moralidade.
-            
-            Concede, Senhor, aos que juraram ao espadim Tiradentes, 
-            o respeito para com o cidadão, 
-            responsabilidade com sua formação, 
-            o compromisso diário com a honestidade, 
-            com a justiça e a legalidade.
+Senhor, Tu que nos fizeste cadetes da gloriosa, 
+evocai em nosso espírito, 
+a dedicação e a lealdade, 
+a bravura e a moralidade.
 
-            Fazei, Oh Deus, 
-            que ao fim desta longa jornada,
-            Ao empunharmos a tão almejada espada, 
-            quando a sociedade e o crime ofender, 
-            que vidas alheias possamos defender.
+Concede, Senhor, aos que juraram ao espadim Tiradentes, 
+o respeito para com o cidadão, 
+responsabilidade com sua formação, 
+o compromisso diário com a honestidade, 
+com a justiça e a legalidade.
 
-            E enquanto a Ti pertencer todo o firmamento, 
-            concede Senhor, 
-            a todo o momento, 
-            a coragem, a honra e a Fé.
+Fazei, Oh Deus, 
+que ao fim desta longa jornada,
+Ao empunharmos a tão almejada espada, 
+quando a sociedade e o crime ofender, 
+que vidas alheias possamos defender.
 
-            EsFO! 
+E enquanto a Ti pertencer todo o firmamento, 
+concede Senhor, 
+a todo o momento, 
+a coragem, a honra e a Fé.
+
+EsFO!  
 `
     },
 
     brasil: {
         titulo: "Hino Nacional",
         audio: "audio/brasil.mp3",
-        letra: `Ouviram do Ipiranga, as margens plácidas
+        letra: `
+Ouviram do Ipiranga, as margens plácidas
 De um povo heroico, o brado retumbante
 E o Sol da liberdade, em raios fúlgidos
 Brilhou no céu da pátria nesse instante
@@ -243,7 +247,8 @@ Da vida a razão!`
     independencia: {
         titulo: "Hino da Independência",
         audio: "audio/independencia.mp3",
-        letra: `Já podeis, da Pátria filhos
+        letra: `
+Já podeis, da Pátria filhos
 Ver contente a Mãe gentil
 Já raiou a liberdade
 No horizonte do Brasil
@@ -307,7 +312,8 @@ Ou morrer pelo Brasil`
     bandeira: {
         titulo: "Hino à Bandeira",
         audio: "audio/bandeira.mp3",
-        letra: `Salve, lindo pendão da esperança,
+        letra: `
+Salve, lindo pendão da esperança,
 Salve, símbolo augusto da paz!
 Tua nobre presença à lembrança
 A grandeza da Pátria nos traz.
@@ -351,7 +357,8 @@ Da amada terra do Brasil!`
     expedicionario: {
         titulo: "Canção do Expedicionário",
         audio: "audio/expedicionario.mp3",
-        letra: `Você sabe de onde eu venho?
+        letra: `
+Você sabe de onde eu venho?
 Venho do morro, do Engenho
 Das selvas, dos cafezais
 Da boa terra do coco
@@ -467,7 +474,8 @@ A glória do meu Brasil!`
     exercito: {
         titulo: "Canção do Exército Brasileiro",
         audio: "audio/exercito.mp3",
-        letra: `Nós somos da Pátria a guarda
+        letra: `
+Nós somos da Pátria a guarda
 Fiéis soldados
 Por ela amados
 Nas cores de nossa farda
@@ -532,7 +540,8 @@ Lutaremos sem temor`
     dez_agosto: {
         titulo: "Canção 10 de agosto - Hino da PMPR",
         audio: "audio/dez_agosto.mp3",
-        letra: `Polícia Militar paranaense
+        letra: `
+Polícia Militar paranaense
 De tão brava e tão nobre tradição
 Ao Brasil nossa vida pertence
 E a ti servimos por brio e vocação
@@ -607,7 +616,8 @@ Todos correm a gritar FOGO, FOGO... `
     fibra_heroi: {
         titulo: "Fibra de Herói",
         audio: "audio/fibra_heroi.mp3",
-        letra: `Se a Pátria querida
+        letra: `
+Se a Pátria querida
 For envolvida pelo inimigo
 Na paz ou na guerra
 Defende a terra contra o perigo
@@ -667,7 +677,8 @@ Onde a liberdade é mais uma estrela a brilhar`
     avante_camaradas: {
         titulo: "Avante Camaradas - Dobrado",
         audio: "audio/avante_camaradas.mp3",
-        letra: `Avante, camaradas
+        letra: `
+Avante, camaradas
 Ao tremular do nosso pendão
 Vençamos as invernadas
 Com fé suprema no coração
@@ -772,7 +783,8 @@ Oficiais para com honra comandar`
     tres_anos: {
         titulo: "Canção Três Anos",
         audio: "audio/tres_anos.mp3",
-        letra: `São três anos de batalha
+        letra: `
+São três anos de batalha
 Que eu tenho de vencer
 Essa batalha é gratificante
 Eu serei um Aspirante
@@ -791,7 +803,8 @@ Minha estrela conquistar`
     espadim: {
         titulo: "Juramento - Espadim",
         audio: "",
-        letra: `Recebendo,
+        letra: `
+Recebendo,
 O Espadim Tiradentes,
 Arma símbolo do Cadete do Curso de Formação de Oficiais,
 Prometemos,
@@ -808,7 +821,8 @@ E espírito de sacrifício.`
     espada: {
         titulo: "Juramento - Espada",
         audio: "",
-        letra: `Ao ser declarado
+        letra: `
+Ao ser declarado
 Aspirante-à-Oficial, da Polícia Militar do Estado do Paraná.
 Prometo,
 Regular minha conduta pelos preceitos da moral.
