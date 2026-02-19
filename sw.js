@@ -1,4 +1,4 @@
-/* V2 - Obs, atualizar toda vez que o app for atualizado para carregar as mudanças no APP */
+/* V2² - Obs, atualizar toda vez que o app for atualizado para carregar as mudanças no APP */
 /* O Service Worker é um script que fica rodando em segundo plano. Ele "salva" os arquivos no celular do usuário. */
 const CACHE_NAME = 'hinos-v1';
 const ASSETS = [
